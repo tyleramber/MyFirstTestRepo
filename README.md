@@ -1,2 +1,2 @@
 # MyFirstTestRepo
-This is my first teat repo
+This is my first test repo
